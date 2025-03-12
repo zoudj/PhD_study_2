@@ -1,6 +1,7 @@
 
 # this script generates item parameters (item difficulties, item discriminations) for the Minor Class.
 
+# for conditions that test difficulty range covers only the Major Class
 # loading R packages used in this script
 library(dplyr)
 library(purrr)

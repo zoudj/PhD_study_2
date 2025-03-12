@@ -1,5 +1,6 @@
 
 # this script processes results from data_gen_part1.R and obtains item parameters for the Minor Class
+# for conditions that test difficulty range covers only the Major Class
 
 # loading R packages
 library(dplyr)
